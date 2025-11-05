@@ -5,9 +5,11 @@ Creates a midi classical palindrom orchester song part by simply pressing a sing
 
 Output .mid files will be created in the same folder where the script is.
 
-Requires (python) and: pip install mido
+Make sure you have python installed and pip of course..
 
+Requires (enter this in the console): pip install mido
 
+Start the script and press the "generate" button.. ;-)
 
 Version History
 
